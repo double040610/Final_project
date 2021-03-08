@@ -10,7 +10,7 @@ router.use(function timeLog(req, res, next) {
 
 router.get('/', function(req, res) {
   res.send('<h1>keep kindness<h1>' 
- +'\n <img src="http://igoods.tw/Photo/SocalGroup/201601081522_558569.png" height="100%" />');
+ +'\n <img src="http://igoods.tw/Photo/SocalGroup/201601081522_558569.png" height="60%" />');
 });
 
 // define the about route
